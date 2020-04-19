@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Samplr is a simple sample pad written with React.js. Each button is associated with an individual key or a click. 
 
 ## Available Scripts
 
